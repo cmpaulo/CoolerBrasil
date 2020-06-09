@@ -26,6 +26,9 @@ Neste ano de 2014
 Temos novidades sobre um novo modelo de kit cooler que pode ser alimentado com duas pilhas/baterias AA e com autonomia máxima de 12 horas. Veja na fanpage do facebook. 
 Os kits serão testados e no segundo semestre já estarão disponíveis para comercio.
 
+Monitoramento das condiçoes do tempo na sua casa, quer conhecer ? visite nosso site WeatherStationBrazil
+[Pagina: WeatherStationBrazil](https://cmpaulo.github.io/weatherStationBrazil/)
+
 ## Linha de modelos
 
 ## Modelo k1259 e k2259  
