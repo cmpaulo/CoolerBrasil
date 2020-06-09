@@ -49,6 +49,7 @@ Email:  **claudio.mpaulo@yahoo.com.br**
 
 Address:  **São Paulo - SP**
 
-Redes Sociais
+## Redes Sociais
 [Cooler Brasil Fanpage ](https://www.facebook.com/coolerbrasil)
+
 [YouTube ](http://www.youtube.com/playlist?list=PLqEFiOKZ21ZovttQ_qdfj_-LBdRUhM4Lx)
