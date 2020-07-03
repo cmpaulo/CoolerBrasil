@@ -1,12 +1,11 @@
 # Bem Vindo ao COOLER BRASIL 
 By Claudio Paulo
 
-
 # História
 
 Em 2012 conheci o esporte PAINTBALL em meio a tantos amigos e jogos entre família, fiquei sabendo da existência de campos de PAINTBALL por todo estado do Rio Grande do Sul, em especial na cidade de Santa Maria e comecei a praticar como nos jogos noturnos sempre tínhamos que parar o jogo porque a mascara, que é um equipamento de proteção obrigatório e indispensável, poderia embaçar ou embaçou. No momento que embaça a lente da mascara a adrenalina aumenta, ainda mais, pois você não enxerga nada e depende dos olhos para manter-se no jogo e ajudar a sua equipe.
 
-Com este problema procurei descobrir o que causa o embaçamento da lente. Encontrei varias causas, como: suor do rosto que evapora diferença de temperatura, respiração ofegante e tantas outras. Até chegar aos kits k de 2013 desenvolvi outros modelos meio a moda da casa. Até chegar aos atuais modelos que vendo. Confira no link modelos.
+Com este problema procurei descobrir o que causa o embaçamento da lente. Encontrei varias causas, como: suor do rosto que evapora diferença de temperatura, respiração ofegante e tantas outras. Até chegar aos kits k de 2013 desenvolvi outros modelos meio a moda da casa. Até chegar aos atuais modelos que vendo. Confira os modelos.
 
 ## Como  Funciona?
 
@@ -18,7 +17,7 @@ O kit é composto por um ou dois coolers de dois tamanhos, 25x25x10 mm, e tamanh
 
 Kit Cooler Brasil para mascaras de paintball
 
-Você pode consultar a disponibilidade, e as formas de pagamento e os prazos de entrega do seu kit no nosso sistema de " Contato ". Pedidos acima de 6 unidades tem valores especiais.
+Você pode consultar a disponibilidade, e as formas de pagamento e os prazos de entrega do seu kit no nosso sistema pelo formulário em ["Contato"](#Contato). Pedidos acima de 6 unidades tem valores especiais.
 
 ## Algumas Novidades.
 
@@ -26,27 +25,32 @@ Neste ano de 2014
 Temos novidades sobre um novo modelo de kit cooler que pode ser alimentado com duas pilhas/baterias AA e com autonomia máxima de 12 horas. Veja na fanpage do facebook. 
 Os kits serão testados e no segundo semestre já estarão disponíveis para comercio.
 
-Monitoramento das condiçoes do tempo na sua casa, quer conhecer ? visite nosso site WeatherStationBrazil
-[Pagina: WeatherStationBrazil](https://cmpaulo.github.io/weatherStationBrazil/)
+Monitoramento das condiçoes do tempo na sua casa, quer conhecer ? Visite nosso site [WeatherStationBrazil](https://cmpaulo.github.io/weatherStationBrazil/)
 
 ## Linha de modelos
 
 ## Modelo k1259 e k2259  
 Março, 2013
 
-Primeiro kit desenvolvido e projetado com um suporte de bateria 9v e regulador de tensão 7805, onde o cooler tem dimensçoes de 25x25x10mm facilmente instalado em mascaras cuja grelha tenha o tamanho de 25mm ou maior.
+Primeiro kit desenvolvido e projetado com um suporte de bateria 9v e regulador de tensão 7805, onde o cooler tem dimensões de 25x25x10mm facilmente instalado em mascaras cuja grelha tenha o tamanho de 25mm ou maior.
 
 ## Modelo k1209 e k2209  
 October 13, 2013
 
-Kit desenvolvido e projetado para mascaras cujo o tamanho da grelha é inferior a 25mm, com um suporte de bateria 9v e regulador de tensão 7805, onde o cooler tem dimensçoes de 20x20x6mm facilmente instalado.
+Kit desenvolvido e projetado para mascaras cujo o tamanho da grelha é inferior a 25mm, com um suporte de bateria 9v e regulador de tensão 7805, onde o cooler tem dimensões de 20x20x6mm facilmente instalado.
 
 ## Protótipos kc120 e kc220  
 October 13, 2013
 
-Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+Kit desenvolvido e projetado para mascaras cujo o tamanho da grelha é inferior a 25mm, com um suporte para pilhas AA e um aumentador de tensão de 3V to 5V que alimentão o cooler com tensão nominal de dimensões de 20x20x6mm facilmente instalado.
 
-## Contato  Comercial
+## Contato
+
+Faça seu pedido.
+
+<div>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSed0g6edtdeHul9dOQWaVnLKBLlp1Sw3RW6zjI9EPqv6Z65Sw/viewform?embedded=true" width="640" height="990" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+</div>
 
 Email:  **claudio.mpaulo@yahoo.com.br**
 
